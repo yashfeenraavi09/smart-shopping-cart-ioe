@@ -11,6 +11,14 @@ An end-to-end **Internet of Everything (IoE)** automated retail checkout and tel
 
 ---
 
+<p align="center">
+  <img src="hardware_prototype.jpg" alt="IoE Smart Shopping Cart Hardware Prototype" width="800" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+  <br />
+  <em><b>Figure 1:</b> Assembled physical hardware prototype showing the cardboard cart structure, Arduino Uno hub, ESP8266 gateway, 16x2 I2C LCD, RC522 RFID scanner, sensor suite, and mounted mobile web app.</em>
+</p>
+
+---
+
 ## 📑 Table of Contents
 
 1. [Executive Summary & Abstract](#1-executive-summary--abstract)
